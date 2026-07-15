@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "Crud.AppHost/Crud.AppHost.csproj"
+  }
+}

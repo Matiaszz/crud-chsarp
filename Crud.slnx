@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Crud.AppHost/Crud.AppHost.csproj" />
+  <Project Path="Crud.Server/Crud.Server.csproj" />
+</Solution>
