@@ -9,3 +9,4 @@ obj/
 *.suo
 
 appsettings.Development.json
+.env
