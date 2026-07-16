@@ -8,7 +8,7 @@ public class UserRepository(AppDbContext context) : IUserRepository
 {
     private readonly AppDbContext _context = context;
 
-    public async Task<User> Save(Guid id, User user)
+    public async Task<User> Save(User user)
     {
         UsersSet().Add(user);
         await Commit();
